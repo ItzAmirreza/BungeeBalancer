@@ -1,0 +1,4 @@
+name: Bungeebalancer
+version: ${project.version}
+main: me.deadlight.bungeebalancer.Bungeebalancer
+description: balancing system coded for madcraft lobbies
